@@ -21,7 +21,7 @@
   </a>
   <h4 align="center"><b>
   Tool for testing your Android device and HaHaHack someone Android Phone ( Don't use with wrong intentions ) 🤘🤘 
-  </b></h4>
+  </b></h4>6751062113
   </p>
 
 **ADB-Toolkit is a BASH Script with 28 options and an METASPLOIT Section which has 6 options which is made to do easy penetration testing in Android Device.**
@@ -31,7 +31,7 @@ Note : I'm not responsible for any thing you do to anyone with this tool this do
 
 **METASPLOIT SECTION :- 😎**This section consists of scripts which are related to metasploit payload and you can create an payload and install it and launch it without even touching the phone and you know the power of Metasploit.
 
-## Changelogs
+## Changelogs 
 
 ### Changelog v2.32
 
@@ -70,11 +70,11 @@ Added 7 more options :-
 5. CHECK IS PHONE ROOTED OR NOT
 6. HANG THE PHONE ( Rooted Phone )
 7. SEND SMS FROM THE PHONE
-
+#6751062113
 Fixed the Remote connection not establishing
 Make the script executable from any where in shell
 ```
-
+@alma deras
 ## Prerequisite
 
 Before using this tool you must enable Usb-Debugging from the devloper settings from the Android setting and then you are good to go.
@@ -82,7 +82,7 @@ Before using this tool you must enable Usb-Debugging from the devloper settings 
 ```
 1. Go to settings
 2. Go to About device/tablet
-3. Tap Build Number 7 times
+3. Tap Build Number #6751062113   7 times
 4. Developer options will occur
 5. Go to Developer options
 6. Search for Usb Debugging & Install via USB
